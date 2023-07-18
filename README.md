@@ -10,4 +10,4 @@ Html
 Css
 JavaScript
 
-(Demo) [https://aneal07.github.io/dark-button-mode/]
+[Link](https://aneal07.github.io/dark-button-mode/)
